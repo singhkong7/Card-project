@@ -1,0 +1,20 @@
+.card
+{
+    text-align: center;
+    background-color: khaki;
+    height: 180px;
+    width:200px;
+    padding:20px;
+    margin:20px;
+    border:1px solid black;
+    span
+    {
+        font-size:10ex;
+        color: darkgreen;
+    }
+
+}
+.card:hover
+{
+    transform:scale(1.1);
+}
